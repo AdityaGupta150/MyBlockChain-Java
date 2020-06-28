@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1f6d7dcd-06dc-45ca-818a-ed90c8bac88d" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1dwHaithsWDOgUtJjB7skrLHMWV" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="Markdown" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="in.ag15" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="in.ag15.Main" />
+      <module name="MyBlockChain" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="in.ag15.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1f6d7dcd-06dc-45ca-818a-ed90c8bac88d" name="Default Changelist" comment="" />
+      <created>1593329300206</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1593329300206</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="266" y="19" key="#Project_Structure" timestamp="1593329309397">
+      <screen x="67" y="0" width="1213" height="720" />
+    </state>
+    <state x="266" y="19" key="#Project_Structure/67.0.1213.720@67.0.1213.720" timestamp="1593329309397" />
+    <state x="129" y="16" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1593344768272">
+      <screen x="67" y="0" width="1213" height="720" />
+    </state>
+    <state x="129" y="16" key="#com.intellij.execution.impl.EditConfigurationsDialog/67.0.1213.720@67.0.1213.720" timestamp="1593344768272" />
+    <state x="479" y="70" key="#com.intellij.ide.util.MemberChooser" timestamp="1593347505044">
+      <screen x="67" y="0" width="1213" height="720" />
+    </state>
+    <state x="479" y="70" key="#com.intellij.ide.util.MemberChooser/67.0.1213.720@67.0.1213.720" timestamp="1593347505044" />
+    <state width="1169" height="220" key="GridCell.Tab.0.bottom" timestamp="1593348192224">
+      <screen x="67" y="0" width="1213" height="720" />
+    </state>
+    <state width="1169" height="220" key="GridCell.Tab.0.bottom/67.0.1213.720@67.0.1213.720" timestamp="1593348192224" />
+    <state width="1169" height="220" key="GridCell.Tab.0.center" timestamp="1593348192224">
+      <screen x="67" y="0" width="1213" height="720" />
+    </state>
+    <state width="1169" height="220" key="GridCell.Tab.0.center/67.0.1213.720@67.0.1213.720" timestamp="1593348192224" />
+    <state width="1169" height="220" key="GridCell.Tab.0.left" timestamp="1593348192224">
+      <screen x="67" y="0" width="1213" height="720" />
+    </state>
+    <state width="1169" height="220" key="GridCell.Tab.0.left/67.0.1213.720@67.0.1213.720" timestamp="1593348192224" />
+    <state width="1169" height="220" key="GridCell.Tab.0.right" timestamp="1593348192224">
+      <screen x="67" y="0" width="1213" height="720" />
+    </state>
+    <state width="1169" height="220" key="GridCell.Tab.0.right/67.0.1213.720@67.0.1213.720" timestamp="1593348192224" />
+    <state width="1169" height="220" key="GridCell.Tab.1.bottom" timestamp="1593348192224">
+      <screen x="67" y="0" width="1213" height="720" />
+    </state>
+    <state width="1169" height="220" key="GridCell.Tab.1.bottom/67.0.1213.720@67.0.1213.720" timestamp="1593348192224" />
+    <state width="1169" height="220" key="GridCell.Tab.1.center" timestamp="1593348192224">
+      <screen x="67" y="0" width="1213" height="720" />
+    </state>
+    <state width="1169" height="220" key="GridCell.Tab.1.center/67.0.1213.720@67.0.1213.720" timestamp="1593348192224" />
+    <state width="1169" height="220" key="GridCell.Tab.1.left" timestamp="1593348192224">
+      <screen x="67" y="0" width="1213" height="720" />
+    </state>
+    <state width="1169" height="220" key="GridCell.Tab.1.left/67.0.1213.720@67.0.1213.720" timestamp="1593348192224" />
+    <state width="1169" height="220" key="GridCell.Tab.1.right" timestamp="1593348192224">
+      <screen x="67" y="0" width="1213" height="720" />
+    </state>
+    <state width="1169" height="220" key="GridCell.Tab.1.right/67.0.1213.720@67.0.1213.720" timestamp="1593348192224" />
+    <state x="246" y="97" width="854" height="607" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1593346004025">
+      <screen x="67" y="0" width="1213" height="720" />
+    </state>
+    <state x="246" y="97" width="854" height="607" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/67.0.1213.720@67.0.1213.720" timestamp="1593346004025" />
+    <state x="330" y="161" key="run.anything.popup" timestamp="1593347894474">
+      <screen x="67" y="0" width="1213" height="720" />
+    </state>
+    <state x="330" y="161" key="run.anything.popup/67.0.1213.720@67.0.1213.720" timestamp="1593347894474" />
+    <state x="336" y="41" width="672" height="678" key="search.everywhere.popup" timestamp="1593347784207">
+      <screen x="67" y="0" width="1213" height="720" />
+    </state>
+    <state x="336" y="41" width="672" height="678" key="search.everywhere.popup/67.0.1213.720@67.0.1213.720" timestamp="1593347784207" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/MyBlockChain$Main.ic" NAME="Main Coverage Results" MODIFIED="1593346020800" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>in.ag15.*</FILTER>
+    </SUITE>
+  </component>
+</project>
